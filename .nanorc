@@ -1,0 +1,23 @@
+carlo@bitprowler ~ % cat .nanorc
+#set mouse
+set boldtext
+set minibar
+set constantshow
+set nohelp
+set linenumbers
+set locking
+set cutfromcursor
+set nonewlines
+set regexp
+set smarthome
+set autoindent
+set guidestripe 80
+set indicator
+#set minicolor bold,italic,#0f0
+#set promptcolor bold,italic,#0f0
+#set stripecolor #000,#0f0
+#set numbercolor #0f0
+#set scrollercolor #0f0
+#set selectedcolor normal,gray
+#set spotlightcolor normal,gray
+carlo@bitprowler ~ % 
